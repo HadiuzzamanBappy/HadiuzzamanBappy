@@ -4,9 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=UI%2FUX+Designer;Frontend+Developer;React+%7C+TypeScript+%7C+Figma" alt="Typing SVG" />
 
-**An UI/UX Designer & Frontend Developer** crafting seamless digital experiences with pixel-perfect design and clean code. Specializing in React, TypeScript, and modern web technologies.
-
-## 🛠️ Tech Stack
+Crafting seamless digital experiences with pixel-perfect design and clean code. Specializing in React, TypeScript, and modern web technologies.
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
