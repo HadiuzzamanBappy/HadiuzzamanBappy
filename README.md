@@ -24,14 +24,6 @@ Crafting seamless digital experiences with pixel-perfect design and clean code. 
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HadiuzzamanBappy&show_icons=true&theme=tokyonight&count_private=true"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HadiuzzamanBappy&layout=compact&theme=tokyonight"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HadiuzzamanBappy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=HadiuzzamanBappy&theme=tokyonight&no-frame=true&column=6" alt="GitHub Trophies" />
-
-## ⚡ Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ---
 
