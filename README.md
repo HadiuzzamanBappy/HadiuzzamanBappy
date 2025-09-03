@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there! I'm Hadiuzzaman Bappy 👋
+# Hi! I'm Hadiuzzaman Bappy 👋
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=UI%2FUX+Designer;Frontend+Developer;React+%7C+TypeScript+%7C+Figma" alt="Typing SVG" />
 
@@ -25,7 +25,7 @@ Crafting seamless digital experiences with pixel-perfect design and clean code. 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hadiuzzamanbappy)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white)](https://behance.net/hbappy79)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=todoist&logoColor=white)](https://hadiuzzamanbappy.vercel.app/)
-[![Resume](https://img.shields.io/badge/Resume-000000?style=flat-square&logo=adobe-acrobat-reader&logoColor=white)](https://hadiuzzamanbappy.vercel.app/pdf/Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-112211?style=flat-square&logo=adobe-acrobat-reader&logoColor=white)](https://hadiuzzamanbappy.vercel.app/pdf/Resume.pdf)
 
 **💫 "Have a vision? Let's build it together!"**
 
