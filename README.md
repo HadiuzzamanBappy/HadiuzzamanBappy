@@ -2,16 +2,9 @@
 
 # Hi there! I'm Hadiuzzaman Bappy 👋
 
-### 🎨 *The bridge between beautiful design and clean code*
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=UI%2FUX+Designer;Frontend+Developer;React+%7C+TypeScript+%7C+Figma" alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=todoist&logoColor=white)](https://hadiuzzamanbappy.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hadiuzzamanbappy)
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white)](https://behance.net/hbappy79)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hbappy79@gmail.com)
-
-**UI/UX Designer & Frontend Developer** crafting seamless digital experiences with pixel-perfect design and clean code. Specializing in React, TypeScript, and modern web technologies.
+**An UI/UX Designer & Frontend Developer** crafting seamless digital experiences with pixel-perfect design and clean code. Specializing in React, TypeScript, and modern web technologies.
 
 ## 🛠️ Tech Stack
 
