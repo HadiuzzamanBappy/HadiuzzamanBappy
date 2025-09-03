@@ -1,0 +1,67 @@
+<div align="center">
+
+# Hi there! I'm Hadiuzzaman Bappy 👋
+
+### 🎨 *The bridge between beautiful design and clean code*
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=UI%2FUX+Designer;Frontend+Developer;React+%7C+TypeScript+%7C+Figma" alt="Typing SVG" />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=todoist&logoColor=white)](https://hadiuzzamanbappy.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hadiuzzamanbappy)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white)](https://behance.net/hbappy79)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hbappy79@gmail.com)
+
+</div>
+
+**UI/UX Designer & Frontend Developer** crafting seamless digital experiences with pixel-perfect design and clean code. Specializing in React, TypeScript, and modern web technologies.
+
+## 🛠️ Tech Stack
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=HadiuzzamanBappy&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HadiuzzamanBappy&layout=compact&theme=tokyonight"/>
+
+</div>
+
+## 🚀 Featured Projects
+
+### 🤖 [Open LLM Chat](https://github.com/HadiuzzamanBappy/Open-LLM-AI) • *AI-powered chat interface*
+### 🎨 [Color Craft](https://github.com/HadiuzzamanBappy/Color-Craft) • *Modern color palette generator*
+### 🏠 [SCASL](https://github.com/HadiuzzamanBappy/SCASL) • *Professional services website*
+### ⚡ [Asset Bundler](https://github.com/HadiuzzamanBappy/Asset-Bundle-Web) • *Lightweight bundling tool*
+
+## 💬 What Clients Say
+
+> *"Bappy is proactive and skilled at work. I recommend him definitely for any project."* — **Eugene Gelfand**
+
+> *"Working with Bappy was seamless. Communication was clear, project completed ahead of schedule."* — **Lorcan O'Connor**
+
+## 🎯 My Process
+**🎯 Goals** → **🔍 Research** → **📝 Wireframe** → **🎨 Prototype** → **💻 Develop** → **🚀 Launch**
+
+---
+
+<div align="center">
+
+**📧 Email:** [hbappy79@gmail.com](mailto:hbappy79@gmail.com) • **📱 Phone:** [+880 1521-318670](tel:+8801521318670)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hadiuzzamanbappy)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white)](https://behance.net/hbappy79)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=todoist&logoColor=white)](https://hadiuzzamanbappy.vercel.app/)
+[![Resume](https://img.shields.io/badge/Resume-000000?style=flat-square&logo=adobe-acrobat-reader&logoColor=white)](https://hadiuzzamanbappy.vercel.app/pdf/Resume.pdf)
+
+**💫 "Have a vision? Let's build it together!"**
+
+![Profile Views](https://komarev.com/ghpvc/?username=HadiuzzamanBappy&color=6C63FF&style=flat-square)
+
+</div>
