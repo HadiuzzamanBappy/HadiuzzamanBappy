@@ -15,18 +15,14 @@ Crafting seamless digital experiences with pixel-perfect design and clean code. 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 🔭 **Currently:** Building AI-powered web applications  
-🌱 **Learning:** Next.js, Three.js, Advanced TypeScript
-
-## 🏆 Featured Work
-### [Open LLM Chat](https://github.com/HadiuzzamanBappy/Open-LLM-AI) - AI-powered chat interface with modern design
-### [Color Craft](https://github.com/HadiuzzamanBappy/Color-Craft) - Modern color palette generator for designers
+🌱 **Learning:** React, Next, Advanced TypeScript
 
 ## 📊 GitHub Stats
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HadiuzzamanBappy&show_icons=true&theme=tokyonight&count_private=true"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HadiuzzamanBappy&layout=compact&theme=tokyonight"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=HadiuzzamanBappy&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HadiuzzamanBappy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 ---
 
