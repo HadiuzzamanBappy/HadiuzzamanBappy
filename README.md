@@ -11,8 +11,6 @@
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white)](https://behance.net/hbappy79)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hbappy79@gmail.com)
 
-</div>
-
 **UI/UX Designer & Frontend Developer** crafting seamless digital experiences with pixel-perfect design and clean code. Specializing in React, TypeScript, and modern web technologies.
 
 ## 🛠️ Tech Stack
@@ -26,16 +24,10 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HadiuzzamanBappy&show_icons=true&theme=tokyonight&count_private=true"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HadiuzzamanBappy&layout=compact&theme=tokyonight"/>
 
-</div>
-
 ---
-
-<div align="center">
 
 **📧 Email:** [hbappy79@gmail.com](mailto:hbappy79@gmail.com) • **📱 Phone:** [+880 1521-318670](tel:+8801521318670)
 
