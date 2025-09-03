@@ -16,8 +16,6 @@ Crafting seamless digital experiences with pixel-perfect design and clean code. 
 
 🔭 **Currently:** Building AI-powered web applications  
 🌱 **Learning:** React, Next, Advanced TypeScript  
-⚡ **Fun fact:** I turn coffee into code and pixels into experiences  
-🎯 **2025 Goals:** Launch 3 SaaS products, Contribute to open source  
 🌍 **Available for:** Freelance projects & collaborations worldwide
 
 ## 📊 GitHub Stats
