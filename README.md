@@ -27,7 +27,7 @@ Crafting seamless digital experiences with pixel-perfect design and clean code. 
 
 ### Let's Connect & Build Something Amazing!
 
-**📧 Email:** [hbappy79@gmail.com](mailto:hbappy79@gmail.com) • **📱 WhatsApp:** [+880 1521-318670](https://wa.me/8801521318670)
+**📧 Email:** [hbappy79@gmail.com](mailto:hbappy79@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hadiuzzamanbappy)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white)](https://behance.net/hbappy79)
