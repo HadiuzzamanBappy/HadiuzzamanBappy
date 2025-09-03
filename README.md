@@ -33,22 +33,6 @@
 
 </div>
 
-## 🚀 Featured Projects
-
-### 🤖 [Open LLM Chat](https://github.com/HadiuzzamanBappy/Open-LLM-AI) • *AI-powered chat interface*
-### 🎨 [Color Craft](https://github.com/HadiuzzamanBappy/Color-Craft) • *Modern color palette generator*
-### 🏠 [SCASL](https://github.com/HadiuzzamanBappy/SCASL) • *Professional services website*
-### ⚡ [Asset Bundler](https://github.com/HadiuzzamanBappy/Asset-Bundle-Web) • *Lightweight bundling tool*
-
-## 💬 What Clients Say
-
-> *"Bappy is proactive and skilled at work. I recommend him definitely for any project."* — **Eugene Gelfand**
-
-> *"Working with Bappy was seamless. Communication was clear, project completed ahead of schedule."* — **Lorcan O'Connor**
-
-## 🎯 My Process
-**🎯 Goals** → **🔍 Research** → **📝 Wireframe** → **🎨 Prototype** → **💻 Develop** → **🚀 Launch**
-
 ---
 
 <div align="center">
