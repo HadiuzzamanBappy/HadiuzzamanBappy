@@ -37,6 +37,6 @@ Crafting seamless digital experiences with pixel-perfect design and clean code. 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HadiuzzamanBappy&color=6C63FF&style=flat-square)
 
-🎨 **50+** Projects Completed • 💼 **10+** Happy Clients • ⭐ **5-Star** Reviews
+🎨 **25+** Projects Completed • 💼 **10+** Happy Clients • ⭐ **5-Star** Reviews
 
 </div>
