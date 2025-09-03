@@ -25,7 +25,7 @@ Crafting seamless digital experiences with pixel-perfect design and clean code. 
 
 ---
 
-### 🤝 Let's Connect & Build Something Amazing!
+### Let's Connect & Build Something Amazing!
 
 **📧 Email:** [hbappy79@gmail.com](mailto:hbappy79@gmail.com) • **📱 WhatsApp:** [+880 1521-318670](https://wa.me/8801521318670)
 
