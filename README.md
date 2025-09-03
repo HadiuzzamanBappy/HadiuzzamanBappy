@@ -22,8 +22,6 @@ Crafting seamless digital experiences with pixel-perfect design and clean code. 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HadiuzzamanBappy&show_icons=true&theme=tokyonight&count_private=true"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HadiuzzamanBappy&layout=compact&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HadiuzzamanBappy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
 ---
 
 ### 🤝 Let's Connect & Build Something Amazing!
