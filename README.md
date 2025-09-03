@@ -15,12 +15,23 @@ Crafting seamless digital experiences with pixel-perfect design and clean code. 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 🔭 **Currently:** Building AI-powered web applications  
-🌱 **Learning:** React, Next, Advanced TypeScript
+🌱 **Learning:** React, Next, Advanced TypeScript  
+⚡ **Fun fact:** I turn coffee into code and pixels into experiences  
+🎯 **2025 Goals:** Launch 3 SaaS products, Contribute to open source  
+🌍 **Available for:** Freelance projects & collaborations worldwide
 
 ## 📊 GitHub Stats
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HadiuzzamanBappy&show_icons=true&theme=tokyonight&count_private=true"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HadiuzzamanBappy&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HadiuzzamanBappy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+## 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=HadiuzzamanBappy&theme=tokyonight&no-frame=true&column=6" alt="GitHub Trophies" />
+
+## ⚡ Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
@@ -36,6 +47,8 @@ Crafting seamless digital experiences with pixel-perfect design and clean code. 
 **💫 "Have a vision? Let's build it together!"**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HadiuzzamanBappy&color=6C63FF&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/HadiuzzamanBappy?style=flat-square&color=6C63FF)
+![GitHub Stars](https://img.shields.io/github/stars/HadiuzzamanBappy?affiliations=OWNER&style=flat-square&color=6C63FF)
 
 🎨 **25+** Projects Completed • 💼 **10+** Happy Clients • ⭐ **5-Star** Reviews
 
